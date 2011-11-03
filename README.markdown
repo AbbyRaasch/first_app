@@ -2,6 +2,8 @@ In class lab week 10. 11/2/11
 
 Added more items to the todo list 11/2/11. second commit
 
+Added more items to the todo list 11/2/11. third commit
+
 -------------------------------------------------------------------------------------
 
 Ruby on Rails Tutorial: first application
