@@ -1,3 +1,5 @@
+Nate was here.  If only I had a kitten image to put in here...
+
 In class lab week 10. 11/2/11
 
 Added more items to the todo list 11/2/11. second commit
